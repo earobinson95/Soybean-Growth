@@ -1,0 +1,3 @@
+"0","library(fastDummies)"
+"0","soybean_data2 <- soybean_data[order(soybean_data$Genotype),]"
+"0","soybean_data2 <- dummy_cols(soybean_data2, select_columns = ""Genotype"", remove_first_dummy = TRUE)"

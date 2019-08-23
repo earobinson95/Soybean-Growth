@@ -1,0 +1,4 @@
+"0","ggplot(soybean_data2, aes(x = Days, y = Leaf_Weight, group = Genotype, color = Genotype)) +"
+"0","  geom_line(aes(y = mod7$yhat, group = Genotype, color = Genotype)) +"
+"0","  theme_minimal() +"
+"0","  xlab(""Days after Planting"") +"
